@@ -1,0 +1,233 @@
+@import 'resat.css';
+#headMessage{
+	height: 50px;
+	background-color: #003580;
+}
+#headMessage .ima1{
+	width: 198px;
+	height: 25px;
+	margin-top: 12.5px;
+}
+#headMessage .font{
+	font-weight: bold;
+	color: #fff;
+	font-size: 16px;
+}
+#headMessage .ima2{
+	width: 18px;
+	height: 18px;
+}
+#headMessage li{
+	float: right;
+	margin-top: 12px;
+}
+#headMessage li .right1{
+	margin-right: 35px;
+}
+#headMessage li .right2{
+	margin-top: -4px;
+	margin-right: 20px;
+}
+#headMessage li .button1{
+	width: 43.2px;
+	height: 30px;
+	text-align: center;
+	border:none;
+	background-color: #fff;
+	border-radius: 3px;
+}
+#headMessage li .button2{
+	width: 93.2px;
+	height: 32px;
+	text-align: center;
+	background-color: #003580;
+	border:1px solid #fff;
+	border-radius: 3px;
+	color: #fff;
+	/*vertical-align: -22px;*/
+}
+#headtwo{
+	height: 59px;
+	background-color: #003580;
+}
+#headtwo .ima3{
+	width: 24px;
+	height: 23px;
+	margin-top: 16px;
+	float: left;
+}
+#headtwo p{
+	font-size: 16px;
+	color: #fff;
+	margin-left: 10px;
+	margin-top: 16px;
+	float: left;
+	/*font-weight: bold;*/
+	letter-spacing: -2px;
+}
+#headtwo .ima4{
+	margin-left: 46px;
+}
+#headtwo .ima5{
+	margin-left: 38px;
+}
+#headtwo .head1{
+	width: 80px;
+	height: 56px;
+	border-bottom:3px solid #febb02;
+}
+#headSearch{
+	height: 260px;
+	background-color: #f7f7f7;
+}
+#headSearch .button5{
+	width: 112px;
+	height: 60px;
+	background-color: #07c;
+	color: #fff;
+	border-left: 4px solid #febb02;
+	border-top: 4px solid #febb02;
+	border-bottom: 4px solid #febb02;
+	border-right: 4px solid #febb02;
+	border-radius: 2px;
+	font-size: 20px;
+	margin-left: -6px;
+	/*vertical-align: -3px;*/
+	border-radius: 0 3px 3px 0;
+	margin-top: 26px;
+	/*vertical-align: -2px;*/
+}
+#headSearch input{
+	width: 550.4px;
+	height: 52px;
+	border-left: 4px solid #febb02;
+	border-top: 4px solid #febb02;
+	border-bottom: 4px solid #febb02;
+	margin-top: 26px;
+	border-radius:3px 0 0 3px;
+}
+/*#headSearch .placeholder{
+	width: 550.4px;
+	height: 52px;
+}*/
+#headSearch .button3{
+	width: 166.4px;
+	height: 60px;
+	border-left: 4px solid #febb02;
+	border-top: 4px solid #febb02;
+	border-bottom: 4px solid #febb02;
+	background-color: #fff;
+	margin-left: -5px;
+	vertical-align: 3px;
+	/*vertical-align: -22px;*/
+}
+#headSearch .button3 p{
+	opacity: 0.7;
+	font-size: 14px;
+	letter-spacing: 3px;
+	/*margin-left: -5px;*/
+}
+#headSearch .button4{
+	width: 267.2px;
+	height: 60px;
+	border-left: 4px solid #febb02;
+	border-top: 4px solid #febb02;
+	border-bottom: 4px solid #febb02;
+	background-color: #fff;
+	margin-left: -6.5px;
+	vertical-align: 3px;
+	/*vertical-align: -22px;*/
+}
+#headSearch .button4 p{
+	opacity: 0.7;
+	font-size: 14px;
+	letter-spacing: 2px;
+	/*margin-left: -5px;*/
+}
+/*#headSearch .form1{
+	width: 1060px;
+	height: 60px;
+	border:4px solid #febb02;
+}
+*/
+#headSearch .size1{
+	font-size: 24px;
+	color: #000;
+	margin-top: 44px;
+	float: left;
+	/*font-weight: bold;*/
+}
+#headSearch .size2{
+	font-size: 14px;
+	float: left;
+	margin-top: -10px;
+}
+#headSearch .ima5{
+	width: 20px;
+	height: 20px;
+	margin-left: 10px;
+}
+#headSearch .ima6{
+	width: 20px;
+	height: 20px;
+	margin-left: 10px;
+}
+#headSearch .ima7{
+	width: 10px;
+	height: 10px;
+	margin-top: -20px;
+	margin-right: 10px;
+}
+#headSearch .ima8{
+	width: 10px;
+	height: 10px;
+	margin-top: -10px;
+	margin-right: 10px;
+}
+/*#headSearch .ima6{
+	width: 16px;
+	height: 16px;
+}
+#headSearch .searchbox{
+	width: 550.4px;
+	height: 52px;
+}*/
+#headSearch .box{
+	width: 19.5px;
+	height: 19.5px;
+	border:2px rgba(0,0,0,0.3) solid;
+	border-radius: 2px;
+	margin-top: 16px;
+}
+#headSearch .p1{
+	float: left;
+	margin-top: 15px;
+	font-size: 16px;
+	color: #000;
+	opacity: 0.9;
+	margin-left: 10px;
+
+}
+#nav .ima9{
+	width: 540px;
+	height: 270px;
+	margin-top: 16px;
+	margin-left: 8px
+}
+#nav .ima10{
+	width: 540px;
+	height: 270px;
+	margin-left: 16px;
+	margin-top: 16px;
+}
+#nav .ima11{
+	width: 364.663px;
+	height: 270px;
+	margin-top: 16px;
+}
+#nav .ima12{
+	width: 364.663px;
+	height: 270px;
+	margin-left: 8px;
+	margin-top: 16px;
+}

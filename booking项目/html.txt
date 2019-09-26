@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Booking.com 缤客：在线酒店预订</title>
+	<link rel="stylesheet" type="text/css" href="weibo.css">
+	<base target="_blank">
+</head>
+<body>
+	<div id="headMessage" class="clearfix">
+		<div class="layer">
+			<img src="../images/book1.png" class="ima1">
+			<ul class="fr">
+				<li><button type="submit" class="right2 button1">登录</button></li>
+				<li><button type="submit" class="right2 button1">注册</button></li>
+				<li><button type="submit" class="right2 button2">上线我的住宿</button></li>
+				<li><a href="" class="right1"><img src="../images/weixin.png" class="ima2"></a></li>
+				<li><a href="" class="right1"><img src="../images/zhongguo.png" class="ima2"></a></li>	
+				<li><span class="font right1">元</span></li>
+			</ul>
+		</div>
+	</div>
+	<div id="headtwo" class="clearfix">
+		<div class="layer">
+			<div class="head1 fl">
+				<a href="">
+					<img src="../images/home.png" class="ima3">
+					<p class="posi">住宿</p>
+				</a>
+			</div>
+			<a href="">
+				<img src="../images/fly.png" class="ima3  ima5">
+				<p>机票</p>
+			</a>
+			<a href="">
+				<img src="../images/car.png" class="ima3  ima4">
+				<p>租车</p>
+			</a>
+			<a href="">
+				<img src="../images/taxi.png" class="ima3  ima4">
+				<p>机场出租车</p>
+			</a>
+		</div>
+	</div>
+	<div id="headSearch" class="clearfix">
+		<div class="layer">
+			<h4 class="size1">缤纷四季优惠搜不停</h4><br><br><br><br><br>
+			<p class="size2">从舒适的乡村民宿到时髦的都市公寓</p>
+			<form class="fl">
+				<!-- <div class="searchbox fl"> -->
+				<input type="text" class="fl">
+						<!-- <div class="placeholder">
+					   		<i><img src="../images/chuang.png" class="ima6"></i>
+					  		<span class="span1">目的地</span>
+				      	</div>
+				      	</div> -->
+				<button class="button3">
+					<img src="../images/rili.png" class="ima5 fl">
+					<p>入住 - 退房</p>
+				</button>
+				<button class="button4">
+					<img src="../images/people.png" class="ima6 fl">
+					<p>2位成人-无儿童-1间客房</p>
+					<img src="../images/arrow1.png" class="ima7 fr">
+					<img src="../images/arrow2.png" class="ima8 fr">
+				</button>
+				<button class="button5">搜索</button>
+			</form>
+			<div class="box fl"></div>
+			<p class="p1">我是出差</p>
+		</div>
+	</div>
+	<div id="nav" class="clearfix">
+		<div class="layer">
+		<ul class="fl">
+			<li class="fl"><a href=""><img src="../images/bali.png" class="ima9"></a></li>
+			<li class="fl"><a href=""><img src="../images/luoma.png" class="ima10"></a></li>
+			<li class="fl"><a href=""><img src="../images/hk.png" class="ima11"></a></li>
+			<li class="fl"><a href=""><img src="../images/milan.png" class="ima12"></a></li>
+			<li class="fl"><a href=""><img src="../images/flls.png" class="ima12"></a></li>
+		</ul>
+		</div>
+	</div>
+	<div id="icon"></div>
+</body>
+</html>

@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>淘宝网-淘！我喜欢</title>
+	<link rel="stylesheet" type="text/css" href="book.css">
+	<base target="_blank">
+</head>
+<body>
+	<div id="headMessage" class="clearfix layer">
+		<ul class="fl">
+			<li>
+				<span>中国大陆</span>
+				<span><img src="../images/arrow1.png" class="img-big"></span>
+			</li>
+			<li class="mr7">
+				<a href="" class="color-1 mr7">亲，请登录</a>
+				<a href="">免费注册</a>
+			</li>
+			<li>
+				<a href="">手机逛淘宝</a>
+			</li>
+		</ul>
+		<ul class="fr">
+			<li>
+				<a href="">我的淘宝</a>
+				<span><img src="../images/arrow1.png" class="img-big"></span>
+			</li>
+			<li>
+				<span class="mr5"><img src="../images/cart.png" class="img-big"></span>
+				<a href="">购物车</a>
+				<strong>0</strong>
+				<span></span>
+			</li>
+			<li>
+				<a href=""><img src="../images/xingxing.png" class="img-big"></span>收藏夹</a>
+			</li>
+			<li>
+				<a href="">商品分类</a>
+			</li>
+			<li class="line">|</li>
+			<li>
+				<a href="">千牛卖家中心</a>
+				<span><img src="../images/arrow1.png" class="img-big"></span>
+			</li>
+			<li>
+				<a href="">联系客服</a>
+				<span><img src="../images/arrow1.png" class="img-big"></span>
+			</li>
+			<li>
+				<span><img src="../images/three.png" class="img-big"></span>
+				<a href="">网站导航</a>
+				<span><img src="../images/arrow1.png" class="img-big"></span>
+			</li>
+		</ul>
+	</div>
+	<div id="headSearch">
+		<div class="clearfix layer">
+			<h1 class="fl"><a href=""><img src="../images/taobao1.png"></a></h1>
+		    <div class="code fr">
+			 	<span class="c5">手机淘宝</span>
+				<img src="../images/taobao.png" alt="">
+			</div>
+		<div class="search">
+			<ul class="searchTab clearfix">
+				<li class="active">宝贝</li>
+				<li>天猫</li>
+				<li>店铺</li>
+			</ul>
+		    <div class="searchContent clearfix">
+			    <form>
+				    <div class="searchBox fl">
+				        <input type="text">
+				        <div class="placeholder">
+					   		<i><img src="../images/glass.png" class="images-big-2"></i>
+					  		<span class="span1">显瘦连衣裙洋气雪纺</span>
+				      	</div>
+						<span><img src="../images/camera.png" class="images-big-3"></span>
+					</div>
+					<div class="btn fl">
+						<button type="submit">搜索</button>
+					</div>
+				</form>
+			</div>
+			<div class="hotKey">
+				<a href="">新款连衣裙</a>
+				<a href="">四件套</a>
+				<a href="">潮流T恤</a>
+				<a href="">时尚女鞋</a>
+				<a href="">短裤</a>
+				<a href="">半身裙</a>
+				<a href="">男士外套</a>
+				<a href="">墙纸</a>
+				<a href="">行车记录仪</a>
+				<a href="">新款男鞋</a>
+				<a href="">耳机</a>
+				<a href="">时尚女包</a>
+				<a href="">沙发</a>
+			</div>
+		</div>
+	</div>
+	</div>
+	<div id="nav" class="layer clearfix">
+		<h2 class="fl">主题市场</h2>
+		<div class="fl box-2">
+		<ul class="fl">
+			<li class="size"><a href="https://www.tmall.com/?spm=a21bo.2017.201859.1.5af911d9L07Qx2">天猫</a></li>
+			<li class="size"><a href="https://ju.taobao.com/?spm=a21bo.2017.201859.2.5af911d9L07Qx2">聚划算</a></li>
+			<li class="size"><a href="https://chaoshi.tmall.com/?targetPage=index&spm=a21bo.2017.201859.3.5af911d9L07Qx2">天猫超市</a></li>
+			<li>|</li>
+			<li><a href="https://qiang.taobao.com/?spm=a21bo.2017.201859.4.5af911d9L07Qx2">淘抢购</a></li>
+			<li><a href="https://3c.tmall.com/?spm=a21bo.2017.201859.5.5af911d9L07Qx2">电器城</a></li>
+			<li><a href="https://chaoshi.tmall.com/?spm=a21bo.2017.201859.3.5af911d9L07Qx2">司法拍卖</a></li>
+			<li><a href="https://good.tmall.com/?spm=a21bo.2017.201859.7.5af911d9L07Qx2">淘宝心选</a></li>
+			<li><a href="https://www.taobao.com/markets/xt/znfp?spm=a21bo.2017.201859.8.5af911d9L07Qx2">兴农扶贫</a></li>
+			<li>|</li>
+			<li><a href="https://www.taobao.com/markets/xt/znfp?spm=a21bo.2017.201859.8.5af911d9L07Qx2">飞猪旅行</a></li>
+			<li><a href="https://zhineng.tmall.com/">智能生活</a></li>
+			<li><a href="https://suning.tmall.com/?spm=a21bo.2017.201859.11.5af911d9L07Qx2">苏宁易购</a></li>	
+		</ul>
+		</div>
+	</div>
+	<div id="firstSreen" class="layer clearfix">
+		<div class="firstLeft fl">
+			<div class="sideNav fl">
+				<ul>
+					<li>
+						<a href="">女装</a>
+						/
+						<a href="">男装</a>
+						/
+						<a href="">内衣</a>
+						<span><img src="../images/arrow2.png" class="images-big-4 fr"></span>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<a href="">鞋靴</a>
+						/
+						<a href="">箱包</a>
+						/
+						<a href="">配件</a>
+						<span><img src="../images/arrow2.png" class="images-big-4 fr"></span>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<a href="">童装玩具</a>
+						/
+						<a href="">孕产</a>
+						/
+						<a href="">用品</a>
+						<span><img src="../images/arrow2.png" class="images-big-4 fr"></span>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<a href="">家电</a>
+						/
+						<a href="">数码</a>
+						/
+						<a href="">手机</a>
+						<span><img src="../images/arrow2.png" class="images-big-4 fr"></span>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<a href="">美妆</a>
+						/
+						<a href="">洗护</a>
+						/
+						<a href="">保健品</a>
+						<span><img src="../images/arrow2.png" class="images-big-4 fr"></span>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<a href="">珠宝</a>
+						/
+						<a href="">眼镜</a>
+						/
+						<a href="">手表</a>
+						<span><img src="../images/arrow2.png" class="images-big-4 fr"></span>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<a href="">运动</a>
+						/
+						<a href="">户外</a>
+						/
+						<a href="">乐器</a>
+						<span><img src="../images/arrow2.png" class="images-big-4 fr"></span>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<a href="">游戏</a>
+						/
+						<a href="">动漫</a>
+						/
+						<a href="">影视</a>
+						<span><img src="../images/arrow2.png" class="images-big-4 fr"></span>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<a href="">美食</a>
+						/
+						<a href="">生鲜</a>
+						/
+						<a href="">零食</a>
+						<span><img src="../images/arrow2.png" class="images-big-4 fr"></span>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<a href="">鲜花</a>
+						/
+						<a href="">宠物</a>
+						/
+						<a href="">农资</a>
+						<span><img src="../images/arrow2.png" class="images-big-4 fr"></span>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<a href="">工具</a>
+						/
+						<a href="">装修</a>
+						/
+						<a href="">建材</a>
+						<span><img src="../images/arrow2.png" class="images-big-4 fr"></span>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<a href="">家具</a>
+						/
+						<a href="">家饰</a>
+						/
+						<a href="">家纺</a>
+						<span><img src="../images/arrow2.png" class="images-big-4 fr"></span>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<a href="">汽车</a>
+						/
+						<a href="">二手车</a>
+						/
+						<a href="">用品</a>
+						<span><img src="../images/arrow2.png" class="images-big-4 fr"></span>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<a href="">办公</a>
+						/
+						<a href="">DIY</a>
+						/
+						<a href="">五金电子</a>
+						<span><img src="../images/arrow2.png" class="images-big-4 fr"></span>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<a href="">百货</a>
+						/
+						<a href="">餐厨</a>
+						/
+						<a href="">家庭保健</a>
+						<span><img src="../images/arrow2.png" class="images-big-4 fr"></span>
+					</li>
+				</ul>
+				<ul>
+					<li>
+						<a href="">学习</a>
+						/
+						<a href="">卡劵</a>
+						/
+						<a href="">本地服务</a>
+						<span><img src="../images/arrow2.png" class="images-big-4 fr"></span>
+					</li>
+				</ul>
+
+			</div>
+			<div class="ima-box1 fr">
+				<div class="pic1 fl">
+					<div>
+					<a href="">
+						<img src="../images/fauvism.jpg">
+					</a>
+					<a href="" class="pic2">
+					<img src="../images/picture.jpg">
+				</a>
+				</div>
+				<div class="circle">
+					<span></span><span></span><span></span><span></span><span></span>
+				</div>
+				</div>
+			</div>
+			<div class="ima-box2 fr">
+				<div class="img-6"><img src="../images/tianmao.png" class="pic3"></div>
+				<div class="img-5 fl">
+					<div class="pic4 fl"><a href=""><img src="../images/greentea.jpg"></a></div>
+					<div class="pic5 fr"><a href=""><img src="../images/bigegg.jpg"></a></div>
+				</div>
+				<div class="fr img-7">
+					<p>今日热卖</p>
+					<a href="">
+						<img src="../images/make.jpg" class="under">
+					</a>
+				</div>
+			</div>
+			<div class="news fl">
+				<div class="fl">
+					<img src="../images/toutiao.png" class="hd">
+				</div>
+				<div class="newList fr">
+					<div class="imtem">
+						<a href="" class="fl img"><img src="../images/bis.jpg"></a>
+						<h4><a href="">糖酥饼真香警告</a></h4>
+						<p><a href="">就是这样充满烟火气的食物，总是深深虏获了大人小孩的心。</a></p>
+						<a href="" class="more">更多</a>
+						<img src="../images/arrow2.png" class="img-big-5">
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="firstRight fr">
+			<div class="user">
+				<a href="" class="avatar"><img src="../images/tbww.png"></a>
+				<p class="username">Hi！你好</p>
+				<p class="members">
+					<a href="" class="gold">领淘金币抵钱</a>
+					<a href="" class="club">会员俱乐部</a>
+				</p>
+				<div class="btn">
+					<button class="login">登录</button>
+					<button class="register">注册</button>
+					<button class="shop">开店</button>
+				</div>
+			</div>
+			<a href="" class="tipOff">
+				<span class="fl tipOff-1">网上有害信息举报专区</span>
+				<img src="../images/arrow3.png" class="fl images-big-5">
+			</a>
+			<div class="notice">
+				<ul class="title">
+					<li class="active"><a href=""></a>公告</li>
+					<li><a href=""></a>规则</li>
+					<li><a href=""></a>论坛</li>
+					<li><a href=""></a>安全</li>
+					<li><a href=""></a>公益</li>
+				</ul>
+				<ul class="content">
+					<li><a href="" class="item1">东北大米征服半个中国 占天猫超市大米销量6成</a></li>
+					<li><a href="">各地人民避暑爆款产品</a></li>
+					<li><a href="" class="item2">盲盒背后的千万级市场</a></li>
+				</ul>
+			</div>
+			<div class="icon">
+				<ul>
+					<li class="item-1">
+						<span><img src="../images/item-1.png" class="big"></span>
+						<p>充话费</p>
+					</li>
+					<li class="item-2">
+						<span><img src="../images/item-2.png" class="big"></span>
+						<p>旅行</p>
+					</li>
+					<li class="item-3">
+						<span><img src="../images/item-3.png" class="big"></span>
+						<p>车险</p>
+					</li>
+					<li class="item-4">
+						<span><img src="../images/item-4.png" class="big"></span>
+						<p>游戏</p>
+					</li>
+					<li class="item-5">
+						<span><img src="../images/item-5.png" class="big"></span>
+						<p>彩票</p> 
+					</li>
+					<li class="item-6">
+						<span><img src="../images/item-6.png" class="big"></span>
+						<p>电影</p>
+					</li>
+					<li class="item-7">
+						<span><img src="../images/item-7.png" class="big"></span>
+						<p>酒店</p>
+					</li>
+					<li class="item-8">
+						<span><img src="../images/item-8.png" class="big"></span>
+						<p>理财</p>
+					</li>
+					<li class="item-9">
+						<span><img src="../images/item-9.png" class="big"></span>
+						<p>找服务</p>
+					</li>
+					<li class="item-10">
+						<span><img src="../images/item-10.png" class="big"></span>
+						<p>演出</p>
+					</li>
+					<li class="item-11">
+						<span><img src="../images/item-11.png" class="big"></span>
+						<p>水电煤</p>
+					</li>
+					<li class="item-12">
+						<span><img src="../images/item-12.png" class="big"></span>
+						<p>火车票</p>
+					</li>
+				</ul>
+			</div>	
+			<div class="app">
+				<div class="clearfix">
+					<h3 class="fl app1">阿里APP</h3>
+					<img src="../images/arrow2.png" class="img-big-5 app3">
+					<a href="" class="fr app2">更多</a>
+				</div>
+				<ul class="appIcon fl">
+					<li><a href=""><img src="../images/app1.webp"></a></li>
+					<li><a href=""><img src="../images/app2.webp"></a></li>
+					<li><a href=""><img src="../images/app3.webp"></a></li>
+					<li><a href=""><img src="../images/app4.webp"></a></li>
+					<li><a href=""><img src="../images/app5.webp"></a></li>
+					<li><a href=""><img src="../images/app6.webp"></a></li>
+					<li><a href=""><img src="../images/app7.webp"></a></li>
+					<li><a href=""><img src="../images/app8.webp"></a></li>
+					<li><a href=""><img src="../images/app9.webp"></a></li>
+					<li><a href=""><img src="../images/app10.webp"></a></li>
+				</ul>
+			</div>
+		</div>
+		
+	</div>
+	<div class="layer clearfix">
+		<div class="goods fl">
+			<div class="head clearfix">
+				<img src="../images/youhaohuo.png" class="img-big-6">
+				<span><img src="../images/erweima.png" class="img-big-7"></span>
+				<p>与品质生活不期而遇</p>
+			</div>
+				<ul class="list">
+					<li>
+						<a href=""><img src="../images/goods1.webp"></a>
+						<h4><a href="">max破产都要买的口红</a></h4>
+						<p><a href="">《破产姐妹》max最爱Tarte哑光口红笔</a></p>
+						<a href="" class="comment"><span><img src="../images/smile.png" class="images-big-8"></span> 5958 人说好</a>
+					</li>
+					<li>
+						<a href=""><img src="../images/goods2.webp"></a>
+						<h4><a href="">Gogan 冰种玉镯</a></h4>
+						<p><a href="">极品冰种质地，视觉效果通透莹润。</a></p>
+						<a href="" class="comment"><span><img src="../images/smile.png" class="images-big-8"></span> 211 人说好</a>
+					</li>
+					<li>
+						<a href=""><img src="../images/goods3.webp"></a>
+						<h4><a href="">碎脂机，超快瘦身</a></h4>
+						<p><a href="">这个精美的碎脂机，不仅采用独特的外形的设计，结合上小巧的尺寸，让其方便你外出时随身携带哦。功能非常的强劲，短时间内就可以感受到脂肪在燃烧哦。</a></p>
+						<a href="" class="comment"><span><img src="../images/smile.png" class="images-big-8"></span> 490 人说好</a>
+					</li>
+					<li>
+						<a href=""><img src="../images/goods4.webp"></a>
+						<h4><a href="">5克拉钻石戒指女豪华皇</a></h4>
+						<p><a href="">宝贝很漂亮的超级闪，质量很好，做工非常精细，包装特别精致，超级豪华，圈口大小合适，戴着很合适，非常精美，时尚百搭，很满意。</a></p>
+						<a href="" class="comment"><span><img src="../images/smile.png" class="images-big-8"></span> 789 人说好</a>
+					</li>
+					<li>
+						<a href=""><img src="../images/goods5.webp"></a>
+						<h4><a href="">为小户型省空间，北欧铁</a></h4>
+						<p><a href="">北欧简约设计，为小户型省空间</a></p>
+						<a href="" class="comment"><span><img src="../images/smile.png" class="images-big-8"></span> 713 人说好</a>
+					</li>
+					<li>
+						<a href=""><img src="../images/goods6.webp"></a>
+						<h4><a href="">ZIIIRO手表</a></h4>
+						<p><a href="">采用现代设计，让时间显示犹如日食奇观重现，引爆眼球。</a></p>
+						<a href="" class="comment"><span><img src="../images/smile.png" class="images-big-8"></span> 356 人说好</a>
+					</li>
+				</ul>
+		</div>
+		<div class="goods fr">
+			<div class="head clearfix">
+				<img src="../images/aiguangjie.png" class="img-big-10">
+				<p>献给聪明的你</p>
+				<img src="../images/arrow2.png" class="img-big-9">
+				<a href="" class="fr">更多</a>
+			</div>
+				<ul class="list">
+					<li>
+						<a href=""><img src="../images/goods7.webp"></a>
+						<img src="../images/yinghao.png" class="img-big-11">
+						<h4 class="trans"><a href="">既是床，也是收纳柜</a></h4>
+						<a href="" class="comment2"><span><img src="../images/user1.jpg" class="img-big-12"></span> 梦***y</a>
+					</li>
+					<li>
+						<a href=""><img src="../images/goods8.webp"></a>
+						<img src="../images/yinghao.png" class="img-big-11">
+						<h4 class="trans"><a href="">外套</a></h4>
+						<a href="" class="comment2"><span><img src="../images/user2.jpg" class="img-big-12"></span> 梦***y</a>
+					</li>
+					<li>
+						<a href=""><img src="../images/goods9.webp"></a>
+						<img src="../images/yinghao.png" class="img-big-11">
+						<h4 class="trans"><a href="">趴趴动物杯 桌面小清新</a></h4>
+						<a href="" class="comment2"><span><img src="../images/user3.jpg" class="img-big-12"></span> 室***师</a>
+					</li>
+					<li>
+						<a href=""><img src="../images/goods10.webp"></a>
+						<img src="../images/yinghao.png" class="img-big-11">
+						<h4 class="trans"><a href="">景德镇釉下彩小汤碗</a></h4>
+						<a href="" class="comment2"><span><img src="../images/user4.jpg" class="img-big-12"></span> 乐***H</a>
+					</li>
+					<li>
+						<a href=""><img src="../images/goods11.webp"></a>
+						<img src="../images/yinghao.png" class="img-big-11">
+						<h4 class="trans"><a href="">时尚小方包，肚量超级大</a></h4>
+						<a href="" class="comment2"><span><img src="../images/user5.jpg" class="img-big-12"></span> M***记</a>
+					</li>
+					<li>
+						<a href=""><img src="../images/goods12.webp"></a>
+						<img src="../images/yinghao.png" class="img-big-11">
+						<h4 class="trans"><a href="">北欧植物盖巾 让清新呈现</a></h4>
+						<a href="" class="comment2"><span><img src="../images/user6.jpg" class="img-big-12"></span> 妙***帮</a>
+					</li>
+				</ul>
+		</div>
+		
+	</div>
+	<div id="tool">
+		
+	</div>
+</body>
+</html>

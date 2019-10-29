@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        #water{
+    position: relative;
+    width:90%;
+    margin:0 auto;
+    outline:1px solid;
+}
+
+#water img{
+    transition:all .5s;
+}
+    </style>
+</head>
+<body>
+    <div id = "water">
+        
+    </div>
+    <script src="./jsoo.js"></script>
+
+    <script>
+        
+            var div = document.getElementById("water");
+
+            var imgs = [];
+            for (var i = 0;i <= 29; i++){
+                imgs.push("./img/" + i + ".jpg");
+            }
+            createWaterFall(div,imgs,220);
+        
+    </script>
+</body>
+</html>
